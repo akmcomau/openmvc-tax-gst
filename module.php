@@ -8,6 +8,6 @@ $_MODULE = [
 		"administrator\\TaxGST"
 	],
 	"default_config" => [
-		"tax_rate" => 0.10
+		"tax_rate" => 0.10,
 	]
 ];
